@@ -242,7 +242,8 @@ a {
     overflow-x: hidden;
 }
 .aboutPara p {
-    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
