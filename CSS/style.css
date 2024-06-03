@@ -220,7 +220,6 @@ a {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    text-align: center;
 }
  
 .contactImg {
@@ -237,6 +236,12 @@ a {
     display: flex;
     flex-direction: row;
     width: 350px;
+    text-align: center;
+}
+
+.hours {
+    width: 350px;
+    text-align: center;
 }
 
 .iconSVG {
