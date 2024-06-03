@@ -215,6 +215,14 @@ a {
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.contactDetails {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 10px;
+}
  
 .contactImg {
     width: 200px;
@@ -229,7 +237,7 @@ a {
 .way {
     display: flex;
     flex-direction: row;
-    width: 500px;
+    width: 350px;
 }
 
 .iconSVG {
